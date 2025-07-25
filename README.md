@@ -32,6 +32,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   ```
   git clone --depth=1 https://github.com/prithvixchiky24/zenphisher.git
   ```
+  </b>change the sites folder name to .sites</b>
 
 - Now go to cloned directory and run `zenphisher.sh` -
   ```
