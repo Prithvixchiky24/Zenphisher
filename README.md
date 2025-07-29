@@ -15,7 +15,7 @@
 <p align="center"><b>ZenPhisher</b> is a beginner-friendly automated phishing tool with over 30 templates and multiple tunneling options.</p>
 
 ---
-
+IMPORTANT NOTE:- change the site folder name to .sites
 ## ⚠️ Disclaimer
 
 **ZenPhisher is for educational purposes only.**
