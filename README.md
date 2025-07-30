@@ -80,12 +80,4 @@ Termux
 
 📫 Maintainer
 Maintained by Prithvi
-
-Feel free to open issues or suggest new templates!
-
-Let me know if you also want:
-- `LICENSE` file with your name  
-- `.deb` builder script  
-- GitHub Action to auto-release  
-
-Would you like me to generate and send the actual `.md` file as a downloadable file too?
+ 
